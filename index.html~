@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {background-color: powderblue;}
+h1 {color: blue;}
+</style>
+</head>
+<meta charset="utf-8">
+<title>WebPage</title>
+<script>
+<div id ="mydiv" onclick="document,getElementById('myid').innerHTML
+</script>
+<h1> Sowjanya</h1>
+<p> <b>Hi this sowjanya</b>.<i>Pursuing my masters in computer Science.</i></p>
+<img src="Ubuntu.jpg" width="100" height="100"/>
+<a href="http://www.google.com">Google</a>
+</html>
+
